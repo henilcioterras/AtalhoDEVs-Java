@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        },
+        {
+            "type": "java",
+            "name": "EstrControle_Decisao",
+            "request": "launch",
+            "mainClass": "st.atalhodevs.logica.EstrControle_Decisao",
+            "projectName": "AtalhoDEVs-Java"
+        },
+        {
+            "type": "java",
+            "name": "EstrControle_Repeticao",
+            "request": "launch",
+            "mainClass": "st.atalhodevs.logica.EstrControle_Repeticao",
+            "projectName": "AtalhoDEVs-Java"
+        },
+        {
+            "type": "java",
+            "name": "EstrControle_SelecaoDeCaso",
+            "request": "launch",
+            "mainClass": "st.atalhodevs.logica.EstrControle_SelecaoDeCaso",
+            "projectName": "AtalhoDEVs-Java"
+        },
+        {
+            "type": "java",
+            "name": "OlaMundo",
+            "request": "launch",
+            "mainClass": "st.atalhodevs.logica.OlaMundo",
+            "projectName": "AtalhoDEVs-Java"
+        },
+        {
+            "type": "java",
+            "name": "Recursividade",
+            "request": "launch",
+            "mainClass": "st.atalhodevs.logica.Recursividade",
+            "projectName": "AtalhoDEVs-Java"
+        },
+        {
+            "type": "java",
+            "name": "Variaveis",
+            "request": "launch",
+            "mainClass": "st.atalhodevs.logica.Variaveis",
+            "projectName": "AtalhoDEVs-Java"
+        }
+    ]
+}
